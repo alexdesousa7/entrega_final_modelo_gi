@@ -1,6 +1,3 @@
-# ✅ **README.md — Versión Final**
-
-```markdown
 # Finetuning de Stable Diffusion v1.4 con el dataset *Old Book Illustrations*
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
@@ -144,4 +141,3 @@ image.save("modelo_Original.png")
 ---
 
 ## Estado del proyecto: **Finalizado**
-```
