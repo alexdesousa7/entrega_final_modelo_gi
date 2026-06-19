@@ -1,0 +1,5 @@
+# Ignorar SOLO las carpetas de modelos pesados
+sd-oldbook-finetuned-unet/
+sd-oldbook-finetuned-unet-256-100/
+sd-oldbook-finetuned-unet-512-100/
+sd-oldbook-finetuned-unet-512-200/
