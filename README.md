@@ -139,5 +139,3 @@ image.save("modelo_Original.png")
 - Archivo `.txt` con el enlace al modelo final en Hugging Face.
 
 ---
-
-## Estado del proyecto: **Finalizado**

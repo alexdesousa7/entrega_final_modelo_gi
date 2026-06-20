@@ -1,0 +1,7 @@
+Perfil = https://huggingface.co/alexdesousa
+
+Usar este modelo
+Modelo Final = https://huggingface.co/alexdesousa/sd-oldbook-finetuned-512-200
+
+Primer modelo de pruebas
+Modelo 1er = https://huggingface.co/alexdesousa/sd-oldbook-finetuned
